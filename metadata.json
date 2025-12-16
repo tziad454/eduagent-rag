@@ -1,0 +1,5 @@
+{
+  "name": "EduAgent RAG Explorer",
+  "description": "A RAG (Retrieval-Augmented Generation) prototype for the EduAgent system. It demonstrates the retrieval of course materials (Vygotsky, Agentic AI) and uses Gemini to generate grounded answers.",
+  "requestFramePermissions": []
+}
